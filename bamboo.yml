@@ -1,1 +1,15 @@
-some
+version: 2
+plan:
+  project-key: ANISH
+  key: ANISH
+  name: Anish
+
+stages:
+  - Stage 1:
+      jobs:
+        - Job 1
+
+Job 1:
+  tasks:
+    - script:
+        - echo 'Hello from YAML Specs'

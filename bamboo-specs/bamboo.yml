@@ -1,8 +1,8 @@
 version: 2
 plan:
   project-key: ANISH
-  key: AN
-  name: AN
+  key: PLAN
+  name: My Plan
 
 stages:
   - Stage 1:
